@@ -56,6 +56,7 @@ AI Upscaling is the process of converting lower resolution media to a higher res
 ### Dataset
 
 Below are some sample datasets you can use to train your model. Of course, you may use other datasets or create your own (Please discuss with your lecturer).
+
 - <https://data.vision.ee.ethz.ch/cvl/DIV2K/>
 - <https://deepai.org/dataset/urban100-4x-upscaling>
 
@@ -77,6 +78,7 @@ Object segmentation is the process of applying a label to every pixel in the ima
 ### Dataset
 
 Below are some sample datasets you can use to train your model. Of course, you may use other datasets (Please discuss with your lecturer).
+
 - <https://archive.ics.uci.edu/ml/datasets/image+segmentation>
 - <https://www.kaggle.com/competitions/open-images-2019-instance-segmentation/overview>
 
@@ -84,14 +86,26 @@ Below are some sample datasets you can use to train your model. Of course, you m
 
 - Minaee, Shervin, et al. Image Segmentation Using Deep Learning: A Survey. arXiv, 14 Nov. 2020. arXiv.org, <https://doi.org/10.48550/arXiv.2001.05566>.
 
-## Classification
+## Object Recognition
 
-What is Classification?
-What must be delivered?
-How is it used in industry?
+Object Recognition is a class of computer vision techniques for identifying objects in images or videos. As part of this project, you are asked to train a classification model which takes in an input, an image or a series of images and correctly intensifies the object.
 
-### As part of your final delivery - you must submit
+### As part of your final delivery you must submit
 
-### Dataset
+- The source code for your application and a notebook documenting your work and techniques used.
+- A pre-trained Pytorch model.
+- Your notebook must include code which loads the pre-trained model, preprocesses a given image or video and displays the output.
 
-### Reading material
+## Dataset
+
+Below are some sample datasets you can use to train your model. Of course, you may use other datasets (Please discuss with your lecturer).
+
+- <https://www.kaggle.com/andrewmvd/cancer-inst-segmentation-and-classification>
+- <https://www.kaggle.com/datasets/landlord/handwriting-recognition>
+- <https://www.cs.toronto.edu/~kriz/cifar.html>
+
+## Reading material
+
+- Liu, Li, et al. “Deep Learning for Generic Object Detection: A Survey.” International Journal of Computer Vision, vol. 128, no. 2, Feb. 2020, pp. 261–318. Springer Link, <https://doi.org/10.1007/s11263-019-01247-4>.
+
+- Zaidi, Syed Sahil Abbas, et al. A Survey of Modern Deep Learning Based Object Detection Models. arXiv, 12 May 2021. arXiv.org, <https://doi.org/10.48550/arXiv.2104.11892>.
