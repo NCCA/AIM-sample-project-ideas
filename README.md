@@ -15,8 +15,8 @@ You must use a self-contained Jupyter Notebook to deliver this project, with cle
 ### Dataset
 
 Below are some sample datasets that you can use to train your model. Of course, you may use other datasets (Please discuss with your lecturer).
-VGG Human Pose Estimation Dataset
-MPII Human Pose Dataset
+- [VGG Human Pose Estimation Dataset](https://www.robots.ox.ac.uk/~vgg/data/pose/#:~:text=The%20YouTube%20Pose%20dataset%20is,and%20dancing%20sign%20language%20signers.)
+- [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
 
 ### Reading material
 
@@ -37,7 +37,7 @@ Neural Denoiser is a class of machine learning algorithms which commonly use sup
 ### Dataset
 
 Below are some sample datasets you can use to train your model. Of course, you may use other datasets or create your own (Please discuss with your lecturer).
-Smartphone Image Denoising Dataset (SIDD)
+- [Smartphone Image Denoising Dataset (SIDD)](https://www.eecs.yorku.ca/~kamel/sidd/dataset.php)
 
 ### Reading material
 
@@ -57,13 +57,12 @@ AI Upscaling is the process of converting lower resolution media to a higher res
 
 Below are some sample datasets you can use to train your model. Of course, you may use other datasets or create your own (Please discuss with your lecturer).
 
-- <https://data.vision.ee.ethz.ch/cvl/DIV2K/>
-- <https://deepai.org/dataset/urban100-4x-upscaling>
+- [DIV 2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
+- [Urban100: 4x upscaling](https://deepai.org/dataset/urban100-4x-upscaling)
 
 ### Reading material
 
 - Wang, Zhihao, et al. Deep Learning for Image Super-Resolution: A Survey. arXiv, 7 Feb. 2020. arXiv.org, <https://doi.org/10.48550/arXiv.1902.06068>.
-<https://arxiv.org/abs/1902.06068>
 
 ## Object Segmentation
 
@@ -79,8 +78,8 @@ Object segmentation is the process of applying a label to every pixel in the ima
 
 Below are some sample datasets you can use to train your model. Of course, you may use other datasets (Please discuss with your lecturer).
 
-- <https://archive.ics.uci.edu/ml/datasets/image+segmentation>
-- <https://www.kaggle.com/competitions/open-images-2019-instance-segmentation/overview>
+- [UCI: Image Segmentation Data Set](https://archive.ics.uci.edu/ml/datasets/image+segmentation)
+- [open images 2019 - instance segmentation](https://www.kaggle.com/competitions/open-images-2019-instance-segmentation/overview)
 
 ### Reading material
 
@@ -100,9 +99,9 @@ Object Recognition is a class of computer vision techniques for identifying obje
 
 Below are some sample datasets you can use to train your model. Of course, you may use other datasets (Please discuss with your lecturer).
 
-- <https://www.kaggle.com/andrewmvd/cancer-inst-segmentation-and-classification>
-- <https://www.kaggle.com/datasets/landlord/handwriting-recognition>
-- <https://www.cs.toronto.edu/~kriz/cifar.html>
+- [Cancer Instance Segmentation and Classification](https://www.kaggle.com/andrewmvd/cancer-inst-segmentation-and-classification)
+- [Handwriting Recognition](https://www.kaggle.com/datasets/landlord/handwriting-recognition)
+- [CIFAR 10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Reading material
 
