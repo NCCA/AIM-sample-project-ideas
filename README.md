@@ -15,6 +15,7 @@ You must use a self-contained Jupyter Notebook to deliver this project, with cle
 ### Dataset
 
 Below are some sample datasets that you can use to train your model. Of course, you may use other datasets (Please discuss with your lecturer).
+
 - [VGG Human Pose Estimation Dataset](https://www.robots.ox.ac.uk/~vgg/data/pose/#:~:text=The%20YouTube%20Pose%20dataset%20is,and%20dancing%20sign%20language%20signers.)
 - [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
 
@@ -37,6 +38,7 @@ Neural Denoiser is a class of machine learning algorithms which commonly use sup
 ### Dataset
 
 Below are some sample datasets you can use to train your model. Of course, you may use other datasets or create your own (Please discuss with your lecturer).
+
 - [Smartphone Image Denoising Dataset (SIDD)](https://www.eecs.yorku.ca/~kamel/sidd/dataset.php)
 
 ### Reading material
@@ -95,7 +97,7 @@ Object Recognition is a class of computer vision techniques for identifying obje
 - A pre-trained Pytorch model.
 - Your notebook must include code which loads the pre-trained model, preprocesses a given image or video and displays the output.
 
-## Dataset
+### Dataset
 
 Below are some sample datasets you can use to train your model. Of course, you may use other datasets (Please discuss with your lecturer).
 
@@ -103,7 +105,12 @@ Below are some sample datasets you can use to train your model. Of course, you m
 - [Handwriting Recognition](https://www.kaggle.com/datasets/landlord/handwriting-recognition)
 - [CIFAR 10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-## Reading material
+### Reading material
 
 - Liu, Li, et al. “Deep Learning for Generic Object Detection: A Survey.” International Journal of Computer Vision, vol. 128, no. 2, Feb. 2020, pp. 261–318. Springer Link, <https://doi.org/10.1007/s11263-019-01247-4>.
 - Zaidi, Syed Sahil Abbas, et al. A Survey of Modern Deep Learning Based Object Detection Models. arXiv, 12 May 2021. arXiv.org, <https://doi.org/10.48550/arXiv.2104.11892>.
+
+## Other useful reading material
+
+- [Goodfellow, Ian, et al. Deep Learning. The MIT Press, 2016.](https://www.deeplearningbook.org/)
+- Stevens, Eli, et al. Deep Learning with PyTorch. Manning Publications Co, 2020.
