@@ -11,6 +11,7 @@ You must use a self-contained Jupyter Notebook to deliver this project, with cle
 - The source code for your application and a notebook documenting your work and techniques used.
 - A pre-trained Pytorch model.
 - Your notebook must include code which loads the pre-trained model, preprocesses a given image or video and display the estimated pose.
+- Video showing you running your code
 
 ### Dataset
 
