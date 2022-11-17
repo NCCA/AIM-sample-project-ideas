@@ -18,3 +18,5 @@ Description of the arcitecture you will use (include diagrams and references as 
 
 ## References
 Jeri.C
+
+# My Project Title
