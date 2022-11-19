@@ -1,4 +1,4 @@
-# My Project Title
+# My Project Title - Full Name - Student ID
 
 ## Abstract
 
